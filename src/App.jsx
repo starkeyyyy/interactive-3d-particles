@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 import './App.css'
-import Interaction from "./components/testing";
+import Interaction from "./components/particle";
 
 function App() {
   const [count, setCount] = useState(0)
